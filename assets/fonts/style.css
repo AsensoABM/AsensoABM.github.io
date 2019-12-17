@@ -1,0 +1,20 @@
+@font-face {
+   font-family: 'theboldfont';
+   font-display: swap;
+   src: url('theboldfont/font.ttf');
+}
+@font-face {
+   font-family: 'Luna';
+   font-display: swap;
+   src: url('Luna/font.ttf');
+}
+@font-face {
+   font-family: 'Cocogoose Pro Thin Italic-trial';
+   font-display: swap;
+   src: url('Cocogoose Pro Thin Italic-trial/font.ttf');
+}
+@font-face {
+   font-family: 'Cocogoose Pro UltraLight Italic-trial';
+   font-display: swap;
+   src: url('Cocogoose Pro UltraLight Italic-trial/font.ttf');
+}
